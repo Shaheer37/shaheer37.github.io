@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firebase Remote configs on Shaheer Muzammil</title>
+    <link>https://shaheer37.github.io/tags/firebase-remote-configs/</link>
+    <description>Recent content in Firebase Remote configs on Shaheer Muzammil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://shaheer37.github.io/tags/firebase-remote-configs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SURF Rideshare</title>
+      <link>https://shaheer37.github.io/projects/surf-rideshare/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://shaheer37.github.io/projects/surf-rideshare/</guid>
+      <description>An entertainment platform that places interactive tablets in ride-share vehicles for the entertainment of passengers and the promotion of local businesses and brands which provides;
+ Free Video content to stream by Media gaints like Paramount Pictures, Vevo and many famous content creators like Tasty, The Daily Show, etc. Full iHeart Radio experience where the riders can listen to iHearts best Radio station, their favourite artists and highly engaging podcasts. Free coupons and disounts to nearby stores and shops  </description>
+    </item>
+    
+  </channel>
+</rss>
