@@ -159,3 +159,20 @@ a:hover, a:focus, a:active {
 img {
   max-width:80%;
 }
+
+.btn-outline-primary, .btn-outline-primary:active, .btn-outline-primary:visited{
+  color: rgb(39, 115, 201) !important;
+  border-color: rgb(39, 115, 201) !important;
+  font-family: 'Saira Extra Condensed', serif !important;
+}
+.btn-outline-primary:hover{
+  color: #ffffff !important;
+  background-color: rgb(39, 115, 201) !important;
+  border-color: rgb(39, 115, 201) !important;
+  font-family: 'Saira Extra Condensed', serif !important;
+}
+
+.btn-outline-primary span{
+  font-size: 1.35rem;
+  font-weight: 500;
+}
