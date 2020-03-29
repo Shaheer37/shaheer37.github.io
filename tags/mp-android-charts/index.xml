@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MP Android Charts on Shaheer Muzammil</title>
+    <link>https://shaheer37.github.io/tags/mp-android-charts/</link>
+    <description>Recent content in MP Android Charts on Shaheer Muzammil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jul 2016 12:41:05 +0500</lastBuildDate>
+    
+	<atom:link href="https://shaheer37.github.io/tags/mp-android-charts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Customer Insight</title>
+      <link>https://shaheer37.github.io/projects/customer-insight/</link>
+      <pubDate>Mon, 11 Jul 2016 12:41:05 +0500</pubDate>
+      
+      <guid>https://shaheer37.github.io/projects/customer-insight/</guid>
+      <description>Customer Insight Customer insight was a multi language application for Telecom Industry to monitor their network user&amp;rsquo;s experience and improve customer support. The application was meant to collect user&amp;rsquo;s network performance parameters to build coverage maps and find weak areas. The application also enabled the user to run call sms and internet speed tests for runtime diagnostics.
+Application Screens The application UI was based on a View Pager an the user could swipe through the dashboard and test screens.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Shaheer Muzammil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 12:41:05 -0500</lastBuildDate>
     
 	<atom:link href="https://shaheer37.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Clean Architecture</title>
       <link>https://shaheer37.github.io/tags/clean-architecture/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
       
       <guid>https://shaheer37.github.io/tags/clean-architecture/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Coroutines</title>
       <link>https://shaheer37.github.io/tags/coroutines/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
       
       <guid>https://shaheer37.github.io/tags/coroutines/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Dagger</title>
       <link>https://shaheer37.github.io/tags/dagger/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
       
       <guid>https://shaheer37.github.io/tags/dagger/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Exoplayer</title>
       <link>https://shaheer37.github.io/tags/exoplayer/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
       
       <guid>https://shaheer37.github.io/tags/exoplayer/</guid>
       <description></description>
@@ -50,25 +50,16 @@
     <item>
       <title>Firebase Database</title>
       <link>https://shaheer37.github.io/tags/firebase-database/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
       
       <guid>https://shaheer37.github.io/tags/firebase-database/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Firebase Remote configs</title>
-      <link>https://shaheer37.github.io/tags/firebase-remote-configs/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://shaheer37.github.io/tags/firebase-remote-configs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kotlin</title>
       <link>https://shaheer37.github.io/tags/kotlin/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
       
       <guid>https://shaheer37.github.io/tags/kotlin/</guid>
       <description></description>
@@ -77,7 +68,7 @@
     <item>
       <title>Retrofit</title>
       <link>https://shaheer37.github.io/tags/retrofit/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
       
       <guid>https://shaheer37.github.io/tags/retrofit/</guid>
       <description></description>
@@ -86,9 +77,54 @@
     <item>
       <title>RxJava</title>
       <link>https://shaheer37.github.io/tags/rxjava/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
       
       <guid>https://shaheer37.github.io/tags/rxjava/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firebase Remote configs</title>
+      <link>https://shaheer37.github.io/tags/firebase-remote-configs/</link>
+      <pubDate>Fri, 15 Feb 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://shaheer37.github.io/tags/firebase-remote-configs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://shaheer37.github.io/tags/java/</link>
+      <pubDate>Fri, 11 Nov 2016 12:41:05 +0500</pubDate>
+      
+      <guid>https://shaheer37.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java Servlets</title>
+      <link>https://shaheer37.github.io/tags/java-servlets/</link>
+      <pubDate>Fri, 11 Nov 2016 12:41:05 +0500</pubDate>
+      
+      <guid>https://shaheer37.github.io/tags/java-servlets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jsoup</title>
+      <link>https://shaheer37.github.io/tags/jsoup/</link>
+      <pubDate>Fri, 11 Nov 2016 12:41:05 +0500</pubDate>
+      
+      <guid>https://shaheer37.github.io/tags/jsoup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volley</title>
+      <link>https://shaheer37.github.io/tags/volley/</link>
+      <pubDate>Fri, 11 Nov 2016 12:41:05 +0500</pubDate>
+      
+      <guid>https://shaheer37.github.io/tags/volley/</guid>
       <description></description>
     </item>
     
@@ -147,38 +183,11 @@
     </item>
     
     <item>
-      <title>Java</title>
-      <link>https://shaheer37.github.io/tags/java/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>MP Android Charts</title>
+      <link>https://shaheer37.github.io/tags/mp-android-charts/</link>
+      <pubDate>Mon, 11 Jul 2016 12:41:05 +0500</pubDate>
       
-      <guid>https://shaheer37.github.io/tags/java/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Java Servlets</title>
-      <link>https://shaheer37.github.io/tags/java-servlets/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://shaheer37.github.io/tags/java-servlets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jsoup</title>
-      <link>https://shaheer37.github.io/tags/jsoup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://shaheer37.github.io/tags/jsoup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Volley</title>
-      <link>https://shaheer37.github.io/tags/volley/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://shaheer37.github.io/tags/volley/</guid>
+      <guid>https://shaheer37.github.io/tags/mp-android-charts/</guid>
       <description></description>
     </item>
     
