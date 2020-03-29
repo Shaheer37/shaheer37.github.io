@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Shaheer Muzammil</title>
-    <link>https://shaheer37.github.io/</link>
+    <link>https://www.shaheermuzammil.com/</link>
     <description>Recent content in Home on Shaheer Muzammil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate>
     
-	<atom:link href="https://shaheer37.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.shaheermuzammil.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
-      <link>https://shaheer37.github.io/publications/alldaydevops/</link>
+      <link>https://www.shaheermuzammil.com/publications/alldaydevops/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://shaheer37.github.io/publications/alldaydevops/</guid>
+      <guid>https://www.shaheermuzammil.com/publications/alldaydevops/</guid>
       <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
  Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
     </item>
     
     <item>
       <title>SURF TV</title>
-      <link>https://shaheer37.github.io/projects/surf-tv/</link>
+      <link>https://www.shaheermuzammil.com/projects/surf-tv/</link>
       <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
       
-      <guid>https://shaheer37.github.io/projects/surf-tv/</guid>
+      <guid>https://www.shaheermuzammil.com/projects/surf-tv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SURF Rideshare</title>
-      <link>https://shaheer37.github.io/projects/surf-rideshare/</link>
+      <link>https://www.shaheermuzammil.com/projects/surf-rideshare/</link>
       <pubDate>Fri, 15 Feb 2019 12:41:05 -0500</pubDate>
       
-      <guid>https://shaheer37.github.io/projects/surf-rideshare/</guid>
+      <guid>https://www.shaheermuzammil.com/projects/surf-rideshare/</guid>
       <description>An entertainment platform that places interactive tablets in ride-share vehicles for the entertainment of passengers and the promotion of local businesses and brands which provides;
  Free Video content to stream by Media gaints like Paramount Pictures, Vevo and many famous content creators like Tasty, The Daily Show, etc. Full iHeart Radio experience where the riders can listen to iHearts best Radio station, their favourite artists and highly engaging podcasts. Free coupons and disounts to nearby stores and shops  </description>
     </item>
     
     <item>
       <title>Vesta Audit</title>
-      <link>https://shaheer37.github.io/projects/vesta-audit/</link>
+      <link>https://www.shaheermuzammil.com/projects/vesta-audit/</link>
       <pubDate>Fri, 11 Nov 2016 12:41:05 +0500</pubDate>
       
-      <guid>https://shaheer37.github.io/projects/vesta-audit/</guid>
+      <guid>https://www.shaheermuzammil.com/projects/vesta-audit/</guid>
       <description>The application replaces manual telecom tower surveys. By digitalizing survey form data entry, syncing and report generation for multiple survey roles like Power Engineer, Civil, Design, etc.
 This application was sold to MTN Nigeria and JAZZ (The largest telecom services provider in Pakistan).</description>
     </item>
     
     <item>
       <title>Customer Insight</title>
-      <link>https://shaheer37.github.io/projects/customer-insight/</link>
+      <link>https://www.shaheermuzammil.com/projects/customer-insight/</link>
       <pubDate>Mon, 11 Jul 2016 12:41:05 +0500</pubDate>
       
-      <guid>https://shaheer37.github.io/projects/customer-insight/</guid>
+      <guid>https://www.shaheermuzammil.com/projects/customer-insight/</guid>
       <description>Customer Insight Customer insight was a multi language application for Telecom Industry to monitor their network user&amp;rsquo;s experience and improve customer support. The application was meant to collect user&amp;rsquo;s network performance parameters to build coverage maps and find weak areas. The application also enabled the user to run call sms and internet speed tests for runtime diagnostics.
 Application Screens The application UI was based on a View Pager an the user could swipe through the dashboard and test screens.</description>
     </item>

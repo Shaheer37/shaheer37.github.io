@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Volley on Shaheer Muzammil</title>
-    <link>https://shaheer37.github.io/tags/volley/</link>
+    <link>https://www.shaheermuzammil.com/tags/volley/</link>
     <description>Recent content in Volley on Shaheer Muzammil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Nov 2016 12:41:05 +0500</lastBuildDate>
     
-	<atom:link href="https://shaheer37.github.io/tags/volley/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.shaheermuzammil.com/tags/volley/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vesta Audit</title>
-      <link>https://shaheer37.github.io/projects/vesta-audit/</link>
+      <link>https://www.shaheermuzammil.com/projects/vesta-audit/</link>
       <pubDate>Fri, 11 Nov 2016 12:41:05 +0500</pubDate>
       
-      <guid>https://shaheer37.github.io/projects/vesta-audit/</guid>
+      <guid>https://www.shaheermuzammil.com/projects/vesta-audit/</guid>
       <description>The application replaces manual telecom tower surveys. By digitalizing survey form data entry, syncing and report generation for multiple survey roles like Power Engineer, Civil, Design, etc.
 This application was sold to MTN Nigeria and JAZZ (The largest telecom services provider in Pakistan).</description>
     </item>
     
     <item>
       <title>Customer Insight</title>
-      <link>https://shaheer37.github.io/projects/customer-insight/</link>
+      <link>https://www.shaheermuzammil.com/projects/customer-insight/</link>
       <pubDate>Mon, 11 Jul 2016 12:41:05 +0500</pubDate>
       
-      <guid>https://shaheer37.github.io/projects/customer-insight/</guid>
+      <guid>https://www.shaheermuzammil.com/projects/customer-insight/</guid>
       <description>Customer Insight Customer insight was a multi language application for Telecom Industry to monitor their network user&amp;rsquo;s experience and improve customer support. The application was meant to collect user&amp;rsquo;s network performance parameters to build coverage maps and find weak areas. The application also enabled the user to run call sms and internet speed tests for runtime diagnostics.
 Application Screens The application UI was based on a View Pager an the user could swipe through the dashboard and test screens.</description>
     </item>

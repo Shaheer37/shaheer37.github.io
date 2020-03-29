@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clean Architecture on Shaheer Muzammil</title>
-    <link>https://shaheer37.github.io/tags/clean-architecture/</link>
+    <link>https://www.shaheermuzammil.com/tags/clean-architecture/</link>
     <description>Recent content in Clean Architecture on Shaheer Muzammil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2020 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="https://shaheer37.github.io/tags/clean-architecture/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.shaheermuzammil.com/tags/clean-architecture/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SURF TV</title>
-      <link>https://shaheer37.github.io/projects/surf-tv/</link>
+      <link>https://www.shaheermuzammil.com/projects/surf-tv/</link>
       <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
       
-      <guid>https://shaheer37.github.io/projects/surf-tv/</guid>
+      <guid>https://www.shaheermuzammil.com/projects/surf-tv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SURF Rideshare</title>
-      <link>https://shaheer37.github.io/projects/surf-rideshare/</link>
+      <link>https://www.shaheermuzammil.com/projects/surf-rideshare/</link>
       <pubDate>Fri, 15 Feb 2019 12:41:05 -0500</pubDate>
       
-      <guid>https://shaheer37.github.io/projects/surf-rideshare/</guid>
+      <guid>https://www.shaheermuzammil.com/projects/surf-rideshare/</guid>
       <description>An entertainment platform that places interactive tablets in ride-share vehicles for the entertainment of passengers and the promotion of local businesses and brands which provides;
  Free Video content to stream by Media gaints like Paramount Pictures, Vevo and many famous content creators like Tasty, The Daily Show, etc. Full iHeart Radio experience where the riders can listen to iHearts best Radio station, their favourite artists and highly engaging podcasts. Free coupons and disounts to nearby stores and shops  </description>
     </item>
