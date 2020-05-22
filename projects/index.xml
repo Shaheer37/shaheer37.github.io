@@ -31,6 +31,16 @@
     </item>
     
     <item>
+      <title>Recording</title>
+      <link>https://www.shaheermuzammil.com/projects/recording/</link>
+      <pubDate>Mon, 01 Oct 2018 12:41:05 +0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/projects/recording/</guid>
+      <description>A simple android voice recording application I created a while back. It has following features;
+ Record audio. Pause/Resume between a recording. Control recording bitrate. Save recording to local storage in a folder named Recording. View, Rename or delete all recordings.  </description>
+    </item>
+    
+    <item>
       <title>Vesta Audit</title>
       <link>https://www.shaheermuzammil.com/projects/vesta-audit/</link>
       <pubDate>Fri, 11 Nov 2016 12:41:05 +0500</pubDate>
