@@ -22,6 +22,16 @@
     </item>
     
     <item>
+      <title>GeoTrack</title>
+      <link>https://www.shaheermuzammil.com/projects/geo-track/</link>
+      <pubDate>Sat, 11 Feb 2017 12:41:05 +0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/projects/geo-track/</guid>
+      <description>GeoTrack GeoTrack is an Attendance monitoring and location tracking application using Google Geofences it will record user&amp;rsquo;s enterance and exit from user specific server defined Geofences. It also has a location tracking service that collects user&amp;rsquo;s location with an interval of 15 minutes and is triggered and stopped on the bases of three criterias, that are;
+ Continuous: never stops Fence based trigger: starts and ends service when the person enters a particular fence.</description>
+    </item>
+    
+    <item>
       <title>Vesta Audit</title>
       <link>https://www.shaheermuzammil.com/projects/vesta-audit/</link>
       <pubDate>Fri, 11 Nov 2016 12:41:05 +0500</pubDate>
