@@ -6,10 +6,73 @@
     <description>Recent content in Tags on Shaheer Muzammil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 12:41:05 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 12:41:05 -0500</lastBuildDate>
     
 	<atom:link href="https://www.shaheermuzammil.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dagger</title>
+      <link>https://www.shaheermuzammil.com/tags/dagger/</link>
+      <pubDate>Wed, 01 Jul 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/dagger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kotlin</title>
+      <link>https://www.shaheermuzammil.com/tags/kotlin/</link>
+      <pubDate>Wed, 01 Jul 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/kotlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MVP</title>
+      <link>https://www.shaheermuzammil.com/tags/mvp/</link>
+      <pubDate>Wed, 01 Jul 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/mvp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Navigation Component</title>
+      <link>https://www.shaheermuzammil.com/tags/navigation-component/</link>
+      <pubDate>Wed, 01 Jul 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/navigation-component/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrofit</title>
+      <link>https://www.shaheermuzammil.com/tags/retrofit/</link>
+      <pubDate>Wed, 01 Jul 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/retrofit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Room</title>
+      <link>https://www.shaheermuzammil.com/tags/room/</link>
+      <pubDate>Wed, 01 Jul 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/room/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RxJava</title>
+      <link>https://www.shaheermuzammil.com/tags/rxjava/</link>
+      <pubDate>Wed, 01 Jul 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/rxjava/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Clean Architecture</title>
@@ -30,15 +93,6 @@
     </item>
     
     <item>
-      <title>Dagger</title>
-      <link>https://www.shaheermuzammil.com/tags/dagger/</link>
-      <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
-      
-      <guid>https://www.shaheermuzammil.com/tags/dagger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Exoplayer</title>
       <link>https://www.shaheermuzammil.com/tags/exoplayer/</link>
       <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
@@ -53,33 +107,6 @@
       <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
       
       <guid>https://www.shaheermuzammil.com/tags/firebase-database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kotlin</title>
-      <link>https://www.shaheermuzammil.com/tags/kotlin/</link>
-      <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
-      
-      <guid>https://www.shaheermuzammil.com/tags/kotlin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Retrofit</title>
-      <link>https://www.shaheermuzammil.com/tags/retrofit/</link>
-      <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
-      
-      <guid>https://www.shaheermuzammil.com/tags/retrofit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RxJava</title>
-      <link>https://www.shaheermuzammil.com/tags/rxjava/</link>
-      <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
-      
-      <guid>https://www.shaheermuzammil.com/tags/rxjava/</guid>
       <description></description>
     </item>
     
