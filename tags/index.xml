@@ -6,10 +6,154 @@
     <description>Recent content in Tags on Shaheer Muzammil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2020 12:41:05 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0500</lastBuildDate>
     
 	<atom:link href="https://www.shaheermuzammil.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amplitude Analytics</title>
+      <link>https://www.shaheermuzammil.com/tags/amplitude-analytics/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/amplitude-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clean Architecture</title>
+      <link>https://www.shaheermuzammil.com/tags/clean-architecture/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/clean-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coroutines</title>
+      <link>https://www.shaheermuzammil.com/tags/coroutines/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/coroutines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dagger/Hilt</title>
+      <link>https://www.shaheermuzammil.com/tags/dagger/hilt/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/dagger/hilt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FCM</title>
+      <link>https://www.shaheermuzammil.com/tags/fcm/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/fcm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firebase Analytics</title>
+      <link>https://www.shaheermuzammil.com/tags/firebase-analytics/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/firebase-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Ads</title>
+      <link>https://www.shaheermuzammil.com/tags/google-ads/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/google-ads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Billing</title>
+      <link>https://www.shaheermuzammil.com/tags/google-billing/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/google-billing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kotlin</title>
+      <link>https://www.shaheermuzammil.com/tags/kotlin/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/kotlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote configs</title>
+      <link>https://www.shaheermuzammil.com/tags/remote-configs/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/remote-configs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrofit</title>
+      <link>https://www.shaheermuzammil.com/tags/retrofit/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/retrofit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DataStore</title>
+      <link>https://www.shaheermuzammil.com/tags/datastore/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/datastore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exoplayer</title>
+      <link>https://www.shaheermuzammil.com/tags/exoplayer/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/exoplayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenGL ES</title>
+      <link>https://www.shaheermuzammil.com/tags/opengl-es/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/opengl-es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Room</title>
+      <link>https://www.shaheermuzammil.com/tags/room/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/room/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work Manager</title>
+      <link>https://www.shaheermuzammil.com/tags/work-manager/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0500</pubDate>
+      
+      <guid>https://www.shaheermuzammil.com/tags/work-manager/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dagger</title>
@@ -17,15 +161,6 @@
       <pubDate>Wed, 01 Jul 2020 12:41:05 -0500</pubDate>
       
       <guid>https://www.shaheermuzammil.com/tags/dagger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kotlin</title>
-      <link>https://www.shaheermuzammil.com/tags/kotlin/</link>
-      <pubDate>Wed, 01 Jul 2020 12:41:05 -0500</pubDate>
-      
-      <guid>https://www.shaheermuzammil.com/tags/kotlin/</guid>
       <description></description>
     </item>
     
@@ -48,56 +183,11 @@
     </item>
     
     <item>
-      <title>Retrofit</title>
-      <link>https://www.shaheermuzammil.com/tags/retrofit/</link>
-      <pubDate>Wed, 01 Jul 2020 12:41:05 -0500</pubDate>
-      
-      <guid>https://www.shaheermuzammil.com/tags/retrofit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Room</title>
-      <link>https://www.shaheermuzammil.com/tags/room/</link>
-      <pubDate>Wed, 01 Jul 2020 12:41:05 -0500</pubDate>
-      
-      <guid>https://www.shaheermuzammil.com/tags/room/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>RxJava</title>
       <link>https://www.shaheermuzammil.com/tags/rxjava/</link>
       <pubDate>Wed, 01 Jul 2020 12:41:05 -0500</pubDate>
       
       <guid>https://www.shaheermuzammil.com/tags/rxjava/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clean Architecture</title>
-      <link>https://www.shaheermuzammil.com/tags/clean-architecture/</link>
-      <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
-      
-      <guid>https://www.shaheermuzammil.com/tags/clean-architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coroutines</title>
-      <link>https://www.shaheermuzammil.com/tags/coroutines/</link>
-      <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
-      
-      <guid>https://www.shaheermuzammil.com/tags/coroutines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exoplayer</title>
-      <link>https://www.shaheermuzammil.com/tags/exoplayer/</link>
-      <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
-      
-      <guid>https://www.shaheermuzammil.com/tags/exoplayer/</guid>
       <description></description>
     </item>
     
