@@ -4,11 +4,8 @@
     <title>Categories on Shaheer Muzammil</title>
     <link>https://www.shaheermuzammil.com/categories/</link>
     <description>Recent content in Categories on Shaheer Muzammil</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://www.shaheermuzammil.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://www.shaheermuzammil.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -4,52 +4,37 @@
     <title>Java on Shaheer Muzammil</title>
     <link>https://www.shaheermuzammil.com/tags/java/</link>
     <description>Recent content in Java on Shaheer Muzammil</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Oct 2018 12:41:05 +0500</lastBuildDate>
-    
-	<atom:link href="https://www.shaheermuzammil.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://www.shaheermuzammil.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recording</title>
       <link>https://www.shaheermuzammil.com/projects/recording/</link>
       <pubDate>Mon, 01 Oct 2018 12:41:05 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/projects/recording/</guid>
-      <description>A simple android voice recording application I created a while back. It has following features;
- Record audio. Pause/Resume between a recording. Control recording bitrate. Save recording to local storage in a folder named Recording. View, Rename or delete all recordings.  </description>
+      <description>&lt;p&gt;A simple android voice recording application I created a while back. It has following features;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Record audio. Pause/Resume between a recording.&lt;/li&gt;&#xA;&lt;li&gt;Control recording bitrate.&lt;/li&gt;&#xA;&lt;li&gt;Save recording to local storage in a folder named Recording.&lt;/li&gt;&#xA;&lt;li&gt;View, Rename or delete all recordings.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>GeoTrack</title>
       <link>https://www.shaheermuzammil.com/projects/geo-track/</link>
       <pubDate>Sat, 11 Feb 2017 12:41:05 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/projects/geo-track/</guid>
-      <description>GeoTrack GeoTrack is an Attendance monitoring and location tracking application using Google Geofences it will record user&amp;rsquo;s enterance and exit from user specific server defined Geofences. It also has a location tracking service that collects user&amp;rsquo;s location with an interval of 15 minutes and is triggered and stopped on the bases of three criterias, that are;
- Continuous: never stops Fence based trigger: starts and ends service when the person enters a particular fence.</description>
+      <description>&lt;h1 id=&#34;geotrack&#34;&gt;GeoTrack&lt;/h1&gt;&#xA;&lt;p&gt;GeoTrack is an Attendance monitoring and location tracking application using Google Geofences it will record user&amp;rsquo;s enterance and exit from user specific server defined Geofences. It also has a location tracking service that collects user&amp;rsquo;s location with an interval of 15 minutes and is triggered and stopped on the bases of three criterias, that are;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Continuous: never stops&lt;/li&gt;&#xA;&lt;li&gt;Fence based trigger: starts and ends service when the person enters a particular fence.&lt;/li&gt;&#xA;&lt;li&gt;Time based trigger: starts an ends service at a particular time.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;application-screens&#34;&gt;Application Screens&lt;/h2&gt;&#xA;&lt;h3 id=&#34;splash--login&#34;&gt;Splash &amp;amp; Login&lt;/h3&gt;&#xA;&lt;p&gt;The users enter the application to a splash screen which then navigates to the login screen. The user logs in by providing Username and password.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Vesta Audit</title>
       <link>https://www.shaheermuzammil.com/projects/vesta-audit/</link>
       <pubDate>Fri, 11 Nov 2016 12:41:05 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/projects/vesta-audit/</guid>
-      <description>The application replaces manual telecom tower surveys. By digitalizing survey form data entry, syncing and report generation for multiple survey roles like Power Engineer, Civil, Design, etc.
-This application was sold to MTN Nigeria and JAZZ (The largest telecom services provider in Pakistan).</description>
+      <description>&lt;p&gt;The application replaces manual telecom tower surveys. By digitalizing survey form data entry, syncing and report generation for multiple survey roles like Power Engineer, Civil, Design, etc.&lt;/p&gt;&#xA;&lt;p&gt;This application was sold to MTN Nigeria and JAZZ (The largest telecom services provider in Pakistan).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Customer Insight</title>
       <link>https://www.shaheermuzammil.com/projects/customer-insight/</link>
       <pubDate>Mon, 11 Jul 2016 12:41:05 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/projects/customer-insight/</guid>
-      <description>Customer Insight Customer insight was a multi language application for Telecom Industry to monitor their network user&amp;rsquo;s experience and improve customer support. The application was meant to collect user&amp;rsquo;s network performance parameters to build coverage maps and find weak areas. The application also enabled the user to run call sms and internet speed tests for runtime diagnostics.
-Application Screens The application UI was based on a View Pager an the user could swipe through the dashboard and test screens.</description>
+      <description>&lt;h1 id=&#34;customer-insight&#34;&gt;Customer Insight&lt;/h1&gt;&#xA;&lt;p&gt;Customer insight was a multi language application for Telecom Industry to monitor their network user&amp;rsquo;s experience and improve customer support. The application was meant to collect user&amp;rsquo;s network performance parameters to build coverage maps and find weak areas. The application also enabled the user to run call sms and internet speed tests for runtime diagnostics.&lt;/p&gt;&#xA;&lt;h2 id=&#34;application-screens&#34;&gt;Application Screens&lt;/h2&gt;&#xA;&lt;p&gt;The application UI was based on a View Pager an the user could swipe through the dashboard and test screens.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

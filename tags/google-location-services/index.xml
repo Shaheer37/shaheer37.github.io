@@ -4,22 +4,16 @@
     <title>Google Location Services on Shaheer Muzammil</title>
     <link>https://www.shaheermuzammil.com/tags/google-location-services/</link>
     <description>Recent content in Google Location Services on Shaheer Muzammil</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Feb 2017 12:41:05 +0500</lastBuildDate>
-    
-	<atom:link href="https://www.shaheermuzammil.com/tags/google-location-services/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://www.shaheermuzammil.com/tags/google-location-services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GeoTrack</title>
       <link>https://www.shaheermuzammil.com/projects/geo-track/</link>
       <pubDate>Sat, 11 Feb 2017 12:41:05 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/projects/geo-track/</guid>
-      <description>GeoTrack GeoTrack is an Attendance monitoring and location tracking application using Google Geofences it will record user&amp;rsquo;s enterance and exit from user specific server defined Geofences. It also has a location tracking service that collects user&amp;rsquo;s location with an interval of 15 minutes and is triggered and stopped on the bases of three criterias, that are;
- Continuous: never stops Fence based trigger: starts and ends service when the person enters a particular fence.</description>
+      <description>&lt;h1 id=&#34;geotrack&#34;&gt;GeoTrack&lt;/h1&gt;&#xA;&lt;p&gt;GeoTrack is an Attendance monitoring and location tracking application using Google Geofences it will record user&amp;rsquo;s enterance and exit from user specific server defined Geofences. It also has a location tracking service that collects user&amp;rsquo;s location with an interval of 15 minutes and is triggered and stopped on the bases of three criterias, that are;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Continuous: never stops&lt;/li&gt;&#xA;&lt;li&gt;Fence based trigger: starts and ends service when the person enters a particular fence.&lt;/li&gt;&#xA;&lt;li&gt;Time based trigger: starts an ends service at a particular time.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;application-screens&#34;&gt;Application Screens&lt;/h2&gt;&#xA;&lt;h3 id=&#34;splash--login&#34;&gt;Splash &amp;amp; Login&lt;/h3&gt;&#xA;&lt;p&gt;The users enter the application to a splash screen which then navigates to the login screen. The user logs in by providing Username and password.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

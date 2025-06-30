@@ -4,22 +4,16 @@
     <title>Android MediaRecorder on Shaheer Muzammil</title>
     <link>https://www.shaheermuzammil.com/tags/android-mediarecorder/</link>
     <description>Recent content in Android MediaRecorder on Shaheer Muzammil</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Oct 2018 12:41:05 +0500</lastBuildDate>
-    
-	<atom:link href="https://www.shaheermuzammil.com/tags/android-mediarecorder/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://www.shaheermuzammil.com/tags/android-mediarecorder/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recording</title>
       <link>https://www.shaheermuzammil.com/projects/recording/</link>
       <pubDate>Mon, 01 Oct 2018 12:41:05 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/projects/recording/</guid>
-      <description>A simple android voice recording application I created a while back. It has following features;
- Record audio. Pause/Resume between a recording. Control recording bitrate. Save recording to local storage in a folder named Recording. View, Rename or delete all recordings.  </description>
+      <description>&lt;p&gt;A simple android voice recording application I created a while back. It has following features;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Record audio. Pause/Resume between a recording.&lt;/li&gt;&#xA;&lt;li&gt;Control recording bitrate.&lt;/li&gt;&#xA;&lt;li&gt;Save recording to local storage in a folder named Recording.&lt;/li&gt;&#xA;&lt;li&gt;View, Rename or delete all recordings.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>

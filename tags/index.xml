@@ -4,345 +4,268 @@
     <title>Tags on Shaheer Muzammil</title>
     <link>https://www.shaheermuzammil.com/tags/</link>
     <description>Recent content in Tags on Shaheer Muzammil</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0500</lastBuildDate>
-    
-	<atom:link href="https://www.shaheermuzammil.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://www.shaheermuzammil.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amplitude Analytics</title>
       <link>https://www.shaheermuzammil.com/tags/amplitude-analytics/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/amplitude-analytics/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Clean Architecture</title>
       <link>https://www.shaheermuzammil.com/tags/clean-architecture/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/clean-architecture/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Coroutines</title>
       <link>https://www.shaheermuzammil.com/tags/coroutines/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/coroutines/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Dagger</title>
+      <link>https://www.shaheermuzammil.com/tags/dagger/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
+      <guid>https://www.shaheermuzammil.com/tags/dagger/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Dagger/Hilt</title>
       <link>https://www.shaheermuzammil.com/tags/dagger/hilt/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/dagger/hilt/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>FCM</title>
       <link>https://www.shaheermuzammil.com/tags/fcm/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/fcm/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Firebase Analytics</title>
       <link>https://www.shaheermuzammil.com/tags/firebase-analytics/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/firebase-analytics/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Google Ads</title>
       <link>https://www.shaheermuzammil.com/tags/google-ads/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/google-ads/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Google Billing</title>
       <link>https://www.shaheermuzammil.com/tags/google-billing/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/google-billing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Kotlin</title>
       <link>https://www.shaheermuzammil.com/tags/kotlin/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/kotlin/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Remote configs</title>
+      <title>Remote Configs</title>
       <link>https://www.shaheermuzammil.com/tags/remote-configs/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/remote-configs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Retrofit</title>
       <link>https://www.shaheermuzammil.com/tags/retrofit/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/retrofit/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DataStore</title>
       <link>https://www.shaheermuzammil.com/tags/datastore/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/datastore/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Exoplayer</title>
       <link>https://www.shaheermuzammil.com/tags/exoplayer/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/exoplayer/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>OpenGL ES</title>
       <link>https://www.shaheermuzammil.com/tags/opengl-es/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/opengl-es/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Room</title>
       <link>https://www.shaheermuzammil.com/tags/room/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/room/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Work Manager</title>
       <link>https://www.shaheermuzammil.com/tags/work-manager/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/work-manager/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Dagger</title>
-      <link>https://www.shaheermuzammil.com/tags/dagger/</link>
-      <pubDate>Wed, 01 Jul 2020 12:41:05 -0500</pubDate>
-      
-      <guid>https://www.shaheermuzammil.com/tags/dagger/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>MVP</title>
       <link>https://www.shaheermuzammil.com/tags/mvp/</link>
       <pubDate>Wed, 01 Jul 2020 12:41:05 -0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/mvp/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Navigation Component</title>
       <link>https://www.shaheermuzammil.com/tags/navigation-component/</link>
       <pubDate>Wed, 01 Jul 2020 12:41:05 -0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/navigation-component/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>RxJava</title>
       <link>https://www.shaheermuzammil.com/tags/rxjava/</link>
       <pubDate>Wed, 01 Jul 2020 12:41:05 -0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/rxjava/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Firebase Database</title>
       <link>https://www.shaheermuzammil.com/tags/firebase-database/</link>
       <pubDate>Wed, 01 Jan 2020 12:41:05 -0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/firebase-database/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Firebase Remote configs</title>
+      <title>Firebase Remote Configs</title>
       <link>https://www.shaheermuzammil.com/tags/firebase-remote-configs/</link>
       <pubDate>Fri, 15 Feb 2019 12:41:05 -0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/firebase-remote-configs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Android MediaRecorder</title>
       <link>https://www.shaheermuzammil.com/tags/android-mediarecorder/</link>
       <pubDate>Mon, 01 Oct 2018 12:41:05 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/android-mediarecorder/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Java</title>
       <link>https://www.shaheermuzammil.com/tags/java/</link>
       <pubDate>Mon, 01 Oct 2018 12:41:05 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/java/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Google Geofence API</title>
       <link>https://www.shaheermuzammil.com/tags/google-geofence-api/</link>
       <pubDate>Sat, 11 Feb 2017 12:41:05 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/google-geofence-api/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Google Location Services</title>
       <link>https://www.shaheermuzammil.com/tags/google-location-services/</link>
       <pubDate>Sat, 11 Feb 2017 12:41:05 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/google-location-services/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQlite</title>
       <link>https://www.shaheermuzammil.com/tags/sqlite/</link>
       <pubDate>Sat, 11 Feb 2017 12:41:05 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/sqlite/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Volley</title>
       <link>https://www.shaheermuzammil.com/tags/volley/</link>
       <pubDate>Sat, 11 Feb 2017 12:41:05 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/volley/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Java Servlets</title>
       <link>https://www.shaheermuzammil.com/tags/java-servlets/</link>
       <pubDate>Fri, 11 Nov 2016 12:41:05 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/java-servlets/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Jsoup</title>
       <link>https://www.shaheermuzammil.com/tags/jsoup/</link>
       <pubDate>Fri, 11 Nov 2016 12:41:05 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/jsoup/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>agile</title>
+      <title>Agile</title>
       <link>https://www.shaheermuzammil.com/tags/agile/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/agile/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>CI/CD pipelines</title>
+      <title>CI/CD Pipelines</title>
       <link>https://www.shaheermuzammil.com/tags/ci/cd-pipelines/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/ci/cd-pipelines/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Continuous Delivery</title>
       <link>https://www.shaheermuzammil.com/tags/continuous-delivery/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/continuous-delivery/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Continuous Integration</title>
       <link>https://www.shaheermuzammil.com/tags/continuous-integration/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/continuous-integration/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Culture</title>
       <link>https://www.shaheermuzammil.com/tags/culture/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/culture/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DevOps</title>
       <link>https://www.shaheermuzammil.com/tags/devops/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/devops/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MP Android Charts</title>
       <link>https://www.shaheermuzammil.com/tags/mp-android-charts/</link>
       <pubDate>Mon, 11 Jul 2016 12:41:05 +0500</pubDate>
-      
       <guid>https://www.shaheermuzammil.com/tags/mp-android-charts/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
