@@ -6,9 +6,16 @@
     Access-Control-Allow-Origin = "*"
     Cache-Control = "public, max-age=0, must-revalidate"
 
-# Prevent redirects for assetlinks.json
+# Serve on non-www domain
 [[redirects]]
-  from = "/.well-known/assetlinks.json"
+  from = "https://shaheermuzammil.com/.well-known/assetlinks.json"
+  to = "/.well-known/assetlinks.json"
+  status = 200
+  force = true
+
+# Serve on www domain (same file)
+[[redirects]]
+  from = "https://www.shaheermuzammil.com/.well-known/assetlinks.json"
   to = "/.well-known/assetlinks.json"
   status = 200
   force = true
