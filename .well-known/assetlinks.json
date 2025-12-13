@@ -1,14 +1,9 @@
-[
-    {
-        "relation": [
-            "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-            "namespace": "android_app",
-            "package_name": "com.saei.employees",
-            "sha256_cert_fingerprints": [
-                "F4:88:F2:0E:55:0E:5E:29:24:F9:21:7F:25:BE:C8:13:A5:EB:32:CC:5B:EE:6F:38:4F:C1:60:06:FB:FA:71:15"
-            ]
-        }
-    }
-]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "chainels_demo_app",
+    "package_name": "com.profile.listing",
+    "sha256_cert_fingerprints":
+    ["D8:C5:F4:38:A8:B3:90:5A:BA:A1:CE:85:70:61:EA:9E:62:25:56:64:A5:7D:76:C8:29:79:0E:31:29:BB:7B:EF"]
+  }
+}]
